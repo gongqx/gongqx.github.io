@@ -1258,17 +1258,20 @@
                 referrerpolicy="no-referrer"></p>
         <h4><a name="we-can-only-see-a-short-distance-aheadbut-we-can-see-plenty-there-that-needs-to-be-done"
                 class="md-header-anchor"></a><span>We can only see a short distance ahead,but we can see plenty there
-                that needs to be done.</span>&nbsp;&nbsp;<p id="time"></p>
+                that needs to be done.</span>&nbsp;&nbsp;<spam id="time"></span>
         </h4>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
     </div>
     <script>
-        var now = new Date();
-        setInterval(function () {
-            var now = new Date();
-            document.getElementById('time').innerHTML = String(now);
-        }, 1000);
+        var alanBorn = new Date("1912-06-23");
+        var alandie = new Date("1954-06-07");
+        alanlife = (alandie - alanBorn) / (1000 * 60 * 60 * 24);
+        var xinBorn = new Date("1993-12-27");
+        var today = new Date();
+        living = Math.floor((today - xinBorn) / (1000 * 60 * 60 * 24));
+        var xindie = alanlife - living;
+        document.getElementById('time').innerHTML = String(alanlife + "" + living + "" + xindie);
     </script>
     </script>
 </body>
