@@ -1260,8 +1260,6 @@
                 class="md-header-anchor"></a><span>We can only see a short distance ahead,but we can see plenty there
                 that needs to be done.</span>&nbsp;&nbsp;<spam id="time"></span>
         </h4>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
     </div>
     <script>
         var alanBorn = new Date("1912-06-23");
@@ -1271,7 +1269,7 @@
         var today = new Date();
         living = Math.ceil((today - xinBorn) / (1000 * 60 * 60 * 24));
         var xindie = alanlife - living;
-        document.getElementById('time').innerHTML = String(alanlife + "" + living + "" + xindie);
+        document.getElementById('time').innerHTML = String(alanlife + "," + living + "," + xindie);
     </script>
     </script>
 </body>
