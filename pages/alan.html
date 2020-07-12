@@ -1269,11 +1269,9 @@
         alanlife = (alandie - alanBorn) / (1000 * 60 * 60 * 24);
         var xinBorn = new Date("1993-12-27");
         var today = new Date();
-        living = Math.floor((today - xinBorn) / (1000 * 60 * 60 * 24));
+        living = Math.ceil((today - xinBorn) / (1000 * 60 * 60 * 24));
         var xindie = alanlife - living;
         document.getElementById('time').innerHTML = String(alanlife + "" + living + "" + xindie);
-        var date1 = new Date();
-        console.log(date1);
     </script>
     </script>
 </body>
