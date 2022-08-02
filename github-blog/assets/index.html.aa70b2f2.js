@@ -1,1 +1,0 @@
-const e={key:"v-51eee38e",path:"/poetic/",title:"\u4E00\u4E2A\u4E2D\u79D1\u5927\u535A\u58EB\u8BBA\u6587\u7684\u81F4\u8C22",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"poetic/README.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-a1bdc7b0",path:"/diary/2020-06/play.html",title:"PLAY LIKE A CHAMPION TODAY",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"gongqx",email:"1063931612@qq.com",commits:1}]},filePathRelative:"diary/2020-06/play.md"};export{t as data};

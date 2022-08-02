@@ -1,0 +1,1 @@
+const e={key:"v-0c3662fe",path:"/charlie/speech.html",title:"\u8A00\u8BBA",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"gongqx",email:"1063931612@qq.com",commits:1}]},filePathRelative:"charlie/speech.md"};export{e as data};
