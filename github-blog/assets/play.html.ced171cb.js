@@ -1,0 +1,1 @@
+import{_ as e,o as a,a as t,b as o,d as c}from"./app.f8579698.js";const s={},_={id:"play-like-a-champion-today",tabindex:"-1"},r=o("a",{class:"header-anchor",href:"#play-like-a-champion-today","aria-hidden":"true"},"#",-1),n=c(" PLAY LIKE A CHAMPION TODAY"),d=[r,n];function i(h,l){return a(),t("h1",_,d)}var f=e(s,[["render",i],["__file","play.html.vue"]]);export{f as default};

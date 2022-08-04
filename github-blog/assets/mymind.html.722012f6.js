@@ -1,0 +1,1 @@
+import{_ as e,o as t,a as o,b as _}from"./app.f8579698.js";const n={},c=_("li",null,"\u7AE5\u5E74\u548C\u73B0\u5728\uFF0C\u90FD\u662F\u7F3A\u5C11\u611F\u6069\u7684",-1),s=[c];function a(l,r){return t(),o("ol",null,s)}var i=e(n,[["render",a],["__file","mymind.html.vue"]]);export{i as default};

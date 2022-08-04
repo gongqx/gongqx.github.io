@@ -1,1 +1,0 @@
-import{_ as e,o as t,a,b as r,d as o}from"./app.36b123b1.js";const s={},_={id:"work-at-first",tabindex:"-1"},c=r("a",{class:"header-anchor",href:"#work-at-first","aria-hidden":"true"},"#",-1),n=o(" work at first"),d=[c,n];function i(h,f){return t(),a("h1",_,d)}var m=e(s,[["render",i],["__file","2020-07-31.html.vue"]]);export{m as default};
