@@ -1,0 +1,1 @@
+import{_ as e,o as _,a as r}from"./app.1374bc43.js";const t={};function c(a,n){return _(),r("p",null,"\u5E73\u9759\u4E0B\u6765\uFF0C\u5148\u5DE5\u4F5C\u5427\uFF01")}var l=e(t,[["render",c],["__file","2020-10-20.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as t,o as _,a,F as n,b as e}from"./app.1374bc43.js";const o={},s=e("p",null,"\u6697\u6D41\u6D8C\u52A8\uFF0C\u751F\u4E8E\u5FE7\u60A3\uFF0C\u6B7B\u4E8E\u5B89\u4E50\u3002",-1),c=e("p",null,"\u7F8E\u5999\u65F6\u523B\uFF0C\u65F6\u65F6\u523B\u523B",-1);function r(l,f){return _(),a(n,null,[s,c],64)}var u=t(o,[["render",r],["__file","2020-08-19.html.vue"]]);export{u as default};
