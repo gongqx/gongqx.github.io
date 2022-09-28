@@ -1,1 +1,0 @@
-const e={key:"v-cc1c5526",path:"/poetic/treehole.html",title:"\u5728\u6811\u6D1E\u91CC",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"gongqx",email:"1063931612@qq.com",commits:1}]},filePathRelative:"poetic/treehole.md"};export{e as data};

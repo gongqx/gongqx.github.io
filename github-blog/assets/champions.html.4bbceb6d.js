@@ -1,1 +1,0 @@
-const e={key:"v-47c9a5cc",path:"/diary/2020-06/champions.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"we are the champions",slug:"we-are-the-champions",children:[]}],git:{contributors:[{name:"gongqx",email:"1063931612@qq.com",commits:1}]},filePathRelative:"diary/2020-06/champions.md"};export{e as data};

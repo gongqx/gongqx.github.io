@@ -1,1 +1,0 @@
-const t={key:"v-7a372905",path:"/diary/",title:"\u7EDF\u4E00",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"gongqx",email:"1063931612@qq.com",commits:1}]},filePathRelative:"diary/README.md"};export{t as data};

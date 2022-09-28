@@ -1,1 +1,0 @@
-const t={key:"v-5f2423df",path:"/diary/2022-04/2022-04-21.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"gongqx",email:"1063931612@qq.com",commits:1}]},filePathRelative:"diary/2022-04/2022-04-21.md"};export{t as data};
